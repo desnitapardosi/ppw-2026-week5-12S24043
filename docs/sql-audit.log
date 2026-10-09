@@ -1,0 +1,4 @@
+﻿[2026-10-09 08:39:16] local.INFO: [SQL AUDIT] (1.28 ms) select count(*) as aggregate from "bukus"  
+[2026-10-09 08:39:16] local.INFO: [SQL AUDIT] (0.35 ms) select * from "bukus" order by "created_at" desc limit 10 offset 0  
+[2026-10-09 08:39:16] local.INFO: [SQL AUDIT] (0.28 ms) select * from "kategoris" where "kategoris"."id" in (1, 2, 3, 4, 5)  
+[2026-10-09 08:39:16] local.INFO: [SQL AUDIT] (0.22 ms) select * from "kategoris" order by "nama_kategori" asc  
